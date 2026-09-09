@@ -1,0 +1,12 @@
+# Keskkonnamuutujad ja salajased võtmed
+.env
+.env.*
+
+# Pythoni ajutised failid ja virtuaalkeskkonnad
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
